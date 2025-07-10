@@ -3,7 +3,8 @@
 Bem-vinda(o) ao projeto de **Análise de Vendas**! 🚀 Aqui exploramos dados reais de vendas para entender o comportamento dos produtos, clientes, marcas e categorias, gerando insights valiosos para decisões estratégicas.
 
 ---
-![full-analysis](https://github.com/user-attachments/assets/d13b5e62-d3f5-4f75-a59f-d5def107f42e)
+<img src="https://github.com/user-attachments/assets/d13b5e62-d3f5-4f75-a59f-d5def107f42e" width="600"/>
+
 
 ---
 
