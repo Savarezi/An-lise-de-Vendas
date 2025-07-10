@@ -71,8 +71,7 @@ Analisamos o lucro gerado por cada marca para entender quais parceiros comerciai
 ## 📫 Contato
 
 Quer trocar uma ideia sobre análise de dados ou tecnologia? Me encontre no:  
-- LinkedIn: [https://www.linkedin.com/in/savarezi](https://www.linkedin.com/in/savarezi)  
-- GitHub: [https://github.com/Savarezi](https://github.com/Savarezi)  
+- LinkedIn: [https://www.linkedin.com/in/savarezi](https://www.linkedin.com/in/savarezi)
 
 ---
 
